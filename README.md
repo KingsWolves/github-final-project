@@ -1,4 +1,6 @@
-# This is the README.md file for the **github-final-project**
+# IBM CD0131EN: Git and GitHub Basics
+
+This is the README.md file for the **github-final-project**
 A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 Input:
    p, principal amount
